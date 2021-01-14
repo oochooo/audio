@@ -1,10 +1,10 @@
 # audio
 
 * if file is mp3
-  1 move the file to Desktop/<output>
+  1. move the file to Desktop/<output>
 * otherwise
-  1 skips if the file isnt ('aiff', 'wav', 'flac')
-  2 converts to 320kbps mp3 and move to Desktop/<output>
+  1. skips if the file isnt ('aiff', 'wav', 'flac')
+  2. converts to 320kbps mp3 and move to Desktop/<output>
  
  see log files at Desktop/<output> upon finishing
  
