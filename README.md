@@ -16,7 +16,7 @@
  python3 -m venv venv
  ```
 
- 3. install ffmpeg dependencies using homebrew
+ 3. [install pydub dependencies via homebrew] (https://github.com/jiaaro/pydub)
  ```
  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
  brew install ffmpeg
