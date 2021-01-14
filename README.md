@@ -6,7 +6,7 @@
   1. skips if the file isnt 'aiff', 'wav', or 'flac'
   2. converts to 320kbps mp3 and move to Desktop/<output>
  
- see log files at Desktop/--output folder-- upon completion
+* logs details at Desktop/--output folder-- upon completion
  
  directions:
  
